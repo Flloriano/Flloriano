@@ -1,4 +1,4 @@
-<h1> 👨🏾 ###Olá me chamo Elias Floriano! </h1> <br>
+<h1>Olá me me chamo Elias Floriano</h1> <br>
 
 🌱 #Estou estudando HTML & CSS, Php, Javascrip e Angular! <br>
 🙏🏾 #Procuro oportunidade na aréa de desenvolvimento de software! <br>
