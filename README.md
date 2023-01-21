@@ -35,5 +35,3 @@ no-preference)"/>
 <br>
 
 ##
-
-![Snake animation](https://github.com/Flloriano/eliasfloriano/blob/main/github-grid-snake.svg)
