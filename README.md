@@ -1,6 +1,6 @@
 <h1>Olá!</h1> <br>
 
-🌱 #Me chamo Elias Floriano, sou programador Full Stack Junior e atualmente estou estudando HTML & CSS, Javascrip e React!<br>
+🌱 #Me chamo Elias Floriano, sou programador Full Stack Junior e atualmente estou estudando atualmente HTML, CSS, Javascrip e React!<br>
 🙏🏾 #Procuro oportunidade na aréa de desenvolvimento de software! <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
