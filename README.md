@@ -9,7 +9,7 @@
   <img align="center" alt="Elias-React" height="30" width="40" src="https://avatars.githubusercontent.com/u/39895671?s=200&v=4">
 </div>
 
-[![Elias Floriano Stats](https://github-readme-stats.vercel.app/api?username=flloriano)](https:/github.com/flloriano/github-readme-stats)
+[![Elias Floriano Stats](https://github-readme-stats.vercel.app/api?username=flloriano)](https:/github.com/anuraghzra/github-readme-stats)
 
 ##
 
