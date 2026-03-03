@@ -1,13 +1,12 @@
-<h1>Olá me chamo Elias Floriano</h1> <br>
+<h1>Olá!</h1> <br>
 
-🌱 #Estou estudando HTML & CSS, Php, Javascrip e Angular! <br>
+🌱 #Me chamo Elias Floriano, sou programador Full Stack Junior e atualmente estou estudando HTML & CSS, Javascrip e React!<br>
 🙏🏾 #Procuro oportunidade na aréa de desenvolvimento de software! <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Elias-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Elias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Elias-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Elias-React" height="30" width="40" src="https://avatars.githubusercontent.com/u/39895671?s=200&v=4">
 </div>
 
 ##
