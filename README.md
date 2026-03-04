@@ -9,8 +9,6 @@
   <img align="center" alt="Elias-React" height="30" width="40" src="https://avatars.githubusercontent.com/u/39895671?s=200&v=4">
 </div>
 
-[![Flloriano Stats](https://github-readme-stats.vercel.app/api?username=flloriano)](https://github.com/anuraghazra/github-readme-stats)
-
 ##
 
 <div> 
